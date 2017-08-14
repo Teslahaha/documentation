@@ -22,15 +22,15 @@ Simple configuration allows you to modify certain settings, including notably th
 ![](./En_configuration.png)
 
 
-**Language:** you are able to choose the language of the Mania<span style="color:#00A8FF">**Planet**</span> client from the languages offered to you.
+**Language:** You are able to choose the language of the Mania<span style="color:#00A8FF">**Planet**</span> client from the languages offered to you.
 
-**Full-screen:** you are able to choose to play in full-screen mode (ticked) or in window mode (not ticked). Full-screen mode displays the game over the whole of your screen, whereas window mode allows you to resize the game’s window at your convenience and access the desktop or other applications.
+**Full-screen:** You are able to choose to play in full-screen mode (ticked) or in window mode (not ticked). Full-screen mode displays the game over the whole of your screen, whereas window mode allows you to resize the game’s window at your convenience and access the desktop or other applications.
 
-**3D glasses:** this option allows you to apply the display of the game in stereoscopic 3D, known as 'anaglyphic' 3D, that is to say a display of two superimposed images (with a slight shift), generally red and cyan in colour, each image corresponding to a different eye. In order to benefit from this display, you must have special glasses, with red and cyan filters.
+**3D glasses:** This option allows you to apply the display of the game in stereoscopic 3D, known as 'anaglyphic' 3D, that is to say a display of two superimposed images (with a slight shift), generally red and cyan in colour, each image corresponding to a different eye. In order to benefit from this display, you must have special glasses, with red and cyan filters.
 
-**Profile:** enables you to specify whether you wish to allow the possibility of hosting several profiles on your Mania<span style="color:#00A8FF">**Planet**</span> client. The different profiles, thus hosted, are displayed when ManiaPlanet is started. The options are the following: Use one single profile / Use several profiles.
+**Profile:** Enables you to specify whether you wish to allow the possibility of hosting several profiles on your Mania<span style="color:#00A8FF">**Planet**</span> client. The different profiles, thus hosted, are displayed when ManiaPlanet is started. The options are the following: Use one single profile / Use several profiles.
 
-**Parental lock:** enter a password in order to lock using the game.
+**Parental lock:** Require a password in order to play the game.
 In order to save your changes, click on the 'Save' button. If you wish to delete your changes, click on the 'Delete' button. This button will close the configuration window.
 
 In order to access the advanced options, click on the 'Advanced' button.
@@ -41,70 +41,70 @@ In order to access the advanced options, click on the 'Advanced' button.
 
 ![](./En_configuration_display.png)
 
-**Customise:** allows you to apply your own settings to the game’s graphics options, from the list of settings proposed below and in the different tabs from the 'Advanced settings' window.
+**Customise:** Allows you to apply your own settings to the game’s graphics options instead of the settings automatically chosen based on your graphics card, from the list of settings proposed below and in the different tabs from the 'Advanced settings' window.
 
-**Pre-settings:** allows you to choose pre-recorded settings from a selection of profiles:
+**Pre-settings:** Allows you to choose graphics presets from a selection of profiles:
 
-**Any:** allows you to independently specify the settings that you wish to apply.
+**Any:** Allows you to independently specify the settings that you wish to apply.
 
-**VeryFast:** profile if you wish to have the smoothest possible game, at the expense of the quality of the graphics.
+**VeryFast:** Select if you wish to have the smoothest and fastest possible gameplay, at the expense of the quality of the graphics.
 
-**Fast:** profile if you wish to have a smooth game, whilst having a higher graphics quality than the **'VeryFast**' mode.
+**Fast:** Select if you wish to have a smooth game, whilst having a higher graphics quality than the **'VeryFast**' mode.
 
-**Nice:** balanced profile between the game’s fluidity and graphics quality.
+**Nice:** A balanced profile between the game’s performance and graphics quality.
 
-**VeryNice:** profile if you wish to have a high graphics quality, at the expense of the game’s fluidity.
+**VeryNice:** Select if you wish to have a high graphics quality, at the expense of the game’s performance.
 
-**Ultra:** profile if you wish to have the highest possible graphics quality, at the expense of the game’s fluidity.
+**Ultra:** Select if you wish to have the highest possible graphics quality, at higher expense of the game’s performance.
 
-**Anti-aliasing:** allows you to smooth out the aliasing present on the contours of an object in 3D. The higher the anti-aliasing is, the more important the smoothing out of the contours is, and the more attractive the graphics rendering is. Available settings: Any / 2 samples / 4 samples / 6 samples / 8 samples / 16 samples.
+**Anti-aliasing:** Allows you to smooth out the aliasing present in the contours of a 3D object (in other words, make the game less pixelated). The higher the anti-aliasing is, the more important the smoothing out of the contours is, and the more attractive the graphics rendering is. Available settings: Any / 2 samples / 4 samples / 6 samples / 8 samples / 16 samples.
 
 
 >>>>> If you select a high graphics quality, the game will require more resources in order to function (processor, random access memory, graphics card).
 >>>>> The custom settings are all available if the 'Any' option is selected in the 'Pre-settings'.
 
 
-**Shadows:** allows you to adjust the quality of the shadows of the 3D models.
+**Shadows:** Allows you to adjust the quality of the shadows of 3D models.
 
-**Shader Quality:** allows you to adjust the quality of the diffusion of lights, reflections, refractions and shadows.
+**Shader Quality:** Allows you to adjust the quality of the diffusion of lights, reflections, refractions and shadows.
 
-**Texture Quality:** allows you to adjust the quality of the textures.
+**Texture Quality:** Allows you to adjust the quality of the textures.
 
-**Max. Filtering:** allows you to improve the sharpness of distant objects. The higher the value is, the greater the sharpness is.
+**Max. Filtering:** Allows you to improve the sharpness of distant objects. The higher the value is, the greater the sharpness is.
 
-**Water reflects:** allows you to adjust the quality of the reflection of the water.
+**Water reflects:** Allows you to adjust the quality of the reflection of the water.
 
-**Car reflects:** allows you to adjust the quality of the reflections on the cars.
+**Car reflects:** Allows you to adjust the quality of the reflections on vehicles and characters.
 
-**PostProcess FXs:** allows you to adjust the following effects:
+**PostProcess FXs:** Allows you to adjust the following effects:
 
-***Motion Blur:** allows you to activate the motion blur, otherwise called kinetic blur.
+***Motion Blur:** Allows you to activate motion blur, the apparent streaking of rapidly moving objects.
 
-***Bloom:** blur effect on the abrupt transitions between a bright area and a dark area.
+***Bloom:** Allows you to activate bloom effects, the scattering of colours from bright and shiny objects.
 
 
 ### Audio
 
 ![](./En_configuration_audio.png)
 
-**Activate the sound:** allows you to activate the sound in the game.
+**Activate the sound:** Allows you to activate the sound in the game.
 
-**Audio Device:** allows you to choose the device desired in order to operate the audio rendering: sound card integrated into the motherboard, internal sound card, external sound card, etc. 
+**Audio Device:** Allows you to select the audio device for the game to play sounds through: sound card integrated into the motherboard, internal sound card, external sound card, etc. 
 
-***Settings:** default / depending on the device.
+***Settings:** Default / Depending on the device.
 
-**Quality:** allows you to adjust the quality of the sound.
+**Quality:** Allows you to adjust the quality of the sound.
 
 ***Settings:** Low / Normal / High
 
-**Speakers:** allows you to choose the Windows default configuration.
+**Speakers:** Allows you to choose the Windows default configuration.
 
-**Activate EAX:** the EAX, or 'Environmental Audio eXtensions', is an application programming interface which allows you to have a realistic 3D sound reproduction. Activating the EAX allows you to have a better reproduction of the sound in a 3D environment.
+**Activate EAX:** The EAX, or 'Environmental Audio eXtensions', is an application programming interface which allows you to have a realistic 3D sound reproduction. Activating the EAX allows you to have a better reproduction of the sound in a 3D environment.
 
-**Enable doppler:** allows you to activate the doppler effect.
-Allow music to change while racing: allows you to download the music proposed by the server on which you are playing and to listen to it.
+**Enable doppler:** Allows you to activate the Doppler effect; sounds in the distance coming toward you will sound higher, while sounds moving away from you will sound lower.
+**Allow music to change while racing:** Allows you to download the music offered by an online gaming server which you are playing on and to listen to it.
 
-**Dynamic mix:** Allows you to adjust the sound level of the game dynamically. 
+**Dynamic mix:** Allows the game adjust its sound level dynamically. 
 
 
 ### Network
@@ -112,53 +112,53 @@ Allow music to change while racing: allows you to download the music proposed by
 ![](./En_configuration_network.png)
 
 
-**Server Port:** when a server is created, it allows you to specify the open port on the local machine onto which clients are able to log.
+**Server Port:** When a server is created, it allows you to specify the open port on your local machine on which clients are able to log.
 
-**P2P Server Port:** allows you to specify the open port on the local machine onto which other clients are able to log in order to share data.
+**P2P Server Port:** Allows you to specify the open port on the local machine onto which other clients are able to log in order to share data.
 
-**Client Port:** allows you to specify the open port on the local machine as a client in order to interact with a server. If the value is specified at zero (default value), then the client will itself determine which port to open.
+**Client Port:** Allows you to specify the open port on the local machine as a client in order to interact with a server. If the value is specified at zero (default value), then the client will itself determine which port to open.
 
-**Number of ports to scan:** allows you to adjust the number of ports to scan in order to detect the servers present on the local area network.
+**Number of ports to scan:** Allows you to adjust the number of ports to scan in order to detect the servers present in the LAN (local area network).
 
-**Use Local Address:** when a server is created, it allows you to use the local IP address of the machine as an IP address of the server.
+**Use Local Address:** When a server is created, it allows you to use the local IP address of the machine as an IP address of the server.
 
 *When the option is ticked, the server which is created will be published with the local IP address of the machine instead of its public IP address.
 
-**Force Server Address:** when a server is created, it allows you to force the IP address of the server with the value specified.
+**Force Server Address:** When a server is created, it allows you to force the IP address of the server into the value specified.
 
-**Blacklist URL:** allows you to banish unwanted URLs.
+**Blacklist URL:** Allows you to block unwanted URLs.
 
-**Disable Advertising:** allows you to disable the in-game advertising.
+**Disable Advertising:** Allows you to disable the in-game advertising.
 
-**Send error reports to NADEO:** if this box is ticked, on each occasion that your game shuts down unexpectedly, an error report, also called a 'log', is sent to the development teams so that they are able to correct the problem. It is therefore very important to leave this box ticked so that **NADEO** is able to improve Mania<span style="color:#00A8FF">**Planet**</span>. Error reports are sent automatically thanks to the email sending software installed on your computer (Outlook, Thunderbird, etc.).
+**Send error reports to NADEO:** If this box is ticked, on each occasion that your game shuts down unexpectedly, an error report, also called a 'log', is sent to NADEO's developers so that they are able to correct the problem. It is therefore very important to leave this box ticked so that **NADEO** is able to improve Mania<span style="color:#00A8FF">**Planet**</span>. Error reports are sent automatically thanks to the email sending software installed on your computer (Outlook, Thunderbird, etc.).
 
-**Check internet connection:** allows you to check whether your Internet connection is active and functional.
+**Check internet connection:** Allows you to check whether your Internet connection is active and functional.
 
-**Use Proxy:** allows you to use a proxy.
+**Use Proxy:** Allows you to use a proxy, a server (a computer system or an application) that acts as an intermediary for requests from clients seeking resources from other servers.
 
-**Proxy Login:** enter here the username for the proxy.
+**Proxy Login:** Enter the username for the proxy here.
 
-**Proxy Password:** enter here the password for the proxy.
+**Proxy Password:** Enter the password for the proxy here.
 
 
-### Peer to peer
+### Peer to Peer
 
 ![](./En_configuration_p2p.png)
 
 
-**Enable download:** allows you to download the skins and klaxons shared by the other players present on the online multi-player game server.
+**Enable download:** Allows you to download content (skins, horns, avatars, etc.) shared by other players present on the server of which you are playing
 
-**Enable upload:** allows you to send your skins and klaxons to the other players present on the server on which you are playing.
+**Enable upload:** Allows you to send your content to the other players present on the server of which you are playing.
 
-**Maximum cache size:** maximum size allocated for the hosting of the skins and klaxons of the other players on your computer. Click on 'Clean the cache' in order to empty the cache.
+**Maximum cache size:** Maximum size allocated for the hosting of third-party content on your computer. Click on 'Clean the cache' in order to empty the cache and free up space.
 
-**Enable locators:** allows you to authorise the downloading and updating of content created by players, directly from a remote server, and not from peer to peer.
+**Enable locators:** Allows you to authorise the downloading and updating of content created by players, directly from a remote server, and not from peer to peer.
 
-**Auto-update at internet connect:** allows you to check, each time it is started, whether your version of the game is up-to-date. If this is not the case, the latest version will be offered to you as a direct download.
+**Auto-update at internet connect:** Allows you to check, each time the game is started, whether your version of the game is up-to-date. If this is not enabled, the latest version will be offered to you as a direct download.
 
-**Update locators from url:** allows you to provide an update of the locators’ content.
+**Update locators from url:** Allows you to provide an update of the locators’ content.
 
-**Auto-update from locators:** allows you to update the content downloaded automatically.
+**Auto-update from locators:** Allows you to update downloaded content automatically.
 
 
 ### Game
@@ -166,25 +166,25 @@ Allow music to change while racing: allows you to download the music proposed by
 ![](./En_configuration_game.png)
 
 
-**Ignore Player Skins:** if ticked, it allows you to ignore the skins of the other players’ cars in a local area network and in an online game.
+**Ignore Player Skins:** If ticked, it allows you to ignore the skins of the other players’ cars/characters in LAN and online servers.
 
-**Skip Rolling Demo:** allows you to disable the demo mode after a short period of inactivity.
+**Skip Rolling Demo:** Allows you to disable the demo mode after a short period of inactivity.
 
-**Cars Quality:** allows you to adjust the quality of the display of your car or the cars of your opponents.
+**Cars Quality:** Allows you to adjust the graphical quality of your car/character and the cars/characters of your opponents.
 
-**Cars Particles Quality:** allows you to adjust the quality of the particles displayed by the car (sparks, dust, etc.).
+**Cars Particles Quality:** Allows you to adjust the quality of the particles projected by a car/character (sparks, dust, etc.).
 
-**Player shadows:** allows you to display the shadows that the car projects on the environment.
+**Player shadows:** Allows you to display the shadows that the cars/characters project on the environment.
 
-**Player occlusion:** allows you to display the shadows projected under the car.
+**Player occlusion:** Allows you to display the shadows projected under your car/character.
 
-**Opponents (Hide Too Close / Always Visible):** hides the vehicles close to your car / displays the vehicles, even those close to your car.
+**Opponents (Hide Too Close / Always Visible):** The former hides the vehicles that are too close to your car, as the latter displays the vehicles, even those close to your car.
 
-**Opponents Limit Count:** limits the number of opponents displayed.
+**Opponents Limit Count:** Limits the number of opponents displayed in sight
 
-**Background Quality:** allows you to adjust the quality of the background (scenery).
+**Background Quality:** Allows you to adjust the quality of the background (scenery).
 
-**Disable scan cache:** allows you to disable the scanning of the cache when the game is started.
+**Disable scan cache:** Allows you to disable the scanning of the cache when the game is started.
 
 
 ### Inputs
@@ -192,11 +192,11 @@ Allow music to change while racing: allows you to download the music proposed by
 
 ![](./En_configuration_inputs.png)
 
-**Activate rumble:** allows you to activate the force feedback on the steering wheels offering this option or to activate the rumble on the gamepads / controllers.
+**Activate rumble:** Allows you to activate the force feedback on steering wheels with this option, or to activate the vibration feature on gamepads and controllers.
 
-**Freeze Unused Axis:** allows you to lock the unused axis in order to avoid pressing a wrong button by mistake.
+**Freeze Unused Axis:** Allows you to lock the unused axis in order to avoid pressing a wrong button by mistake.
 
-**Exclusive keyboard capture:** allows you to restrict the use of the Windows® keyboard to the sole use of the game, whilst excluding other applications.
+**Exclusive keyboard capture:** Allows you to restrict the use of the Windows® keyboard to the sole use of the game, whilst excluding other applications.
 
 
 ### Others
@@ -204,8 +204,8 @@ Allow music to change while racing: allows you to download the music proposed by
 ![](./En_defaults.png)
 
 
-**Default Values:** allows you for each tab, or for the window, to restore the default values if you have made a change.
+**Default Values:** Allows you for each tab, or for the window, to restore the default values if you have made a change.
 
-**Ok:** allows you to validate changes made to the 'Advanced settings'. Do not forget to click on 'Save' in the 'Configuration' parent window.
+**OK:** Allows you to validate changes made to the 'Advanced settings'. Do not forget to click on 'Save' in the 'Configuration' parent window.
 
-**Delete:** deletes the changes and closes the 'Advanced settings' window.
+**Delete:** Deletes the changes and closes the 'Advanced settings' window.
