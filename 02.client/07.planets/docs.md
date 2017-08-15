@@ -8,24 +8,24 @@ taxonomy:
         - docs
 ---
 
-Planets is the virtual currency for ManiaPlanet games.
+The Planet is the in-game currency for ManiaPlanet games.
 
-You can see your current total of Planets on the ManiaPlanet navigation toolbar on top of your screen.
+You can see your current total amount of Planets in the ManiaPlanet navigation toolbar at the top of your screen.
 
 ![](./mp4_planets.jpg)
 
 ## Gain Planets
-There is many ways to gain Planets in ManiaPlanet:
+There are many ways to gain Planets in ManiaPlanet:
 
-* 20 Planets at the first connexion of the day (per environment owned, i.e: Trackmania² Canyon, Trackmania² Valley, Trackmania² Lagoon, Trackmania² Stadium, Shootmania Storm)
-* 10, 20 or/and 30 Planets following the medals that you earn in official mode in the solo campaigns of the environments (Trackmania² Canyon, Trackmania² Valley, Trackmania² Lagoon, Trackmania² Stadium)
-* 100 Planets when you win 1000 Ladder Points
-* Bonus month (20 Planets by title/day but it's not implemented yet)
-* Sell avatars/scripts/maps/macroblocks/skins/3D models to the players via Manialink webpages.
+* 20 Planets are earned when you connect to a title for the first time today (per environment owned, i.e: Trackmania² Canyon, Trackmania² Valley, Trackmania² Lagoon, Trackmania² Stadium, Shootmania Storm).
+* 10 to 30 Planets for each medal that you earn in the solo campaign (Trackmania² Canyon, Trackmania² Valley, Trackmania² Lagoon, Trackmania² Stadium).
+* 100 Planets when you earn 1000 Ladder Points.
+* Bonus month (20 Planets by title/day but it's not implemented yet).
+* Sell custom content to players via Manialink webpages.
 
 ## Spend Planets
-But you can spend them in different ways too:
+You can spend these Planets for various items that ManiaPlanet offers:
 
-* Several services available on the Maniaplanet website use Planets to do actions (like uploading a map, set a ladder server, test a server on the Nadeo infrastructure, etc.)
-* Buying customization stuff from the players in their Manialink webpages ingame.
-* The month Planet balance
+* Several services available on the Maniaplanet website require Planets to do actions (like uploading a map, setting a ladder server, testing a server, etc.).
+* Buying custom content from others in their Manialink webpages.
+* The month Planet balance (?)
